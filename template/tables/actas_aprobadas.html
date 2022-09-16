@@ -1,0 +1,47 @@
+<div class="card-body">
+    <div id="ActasAprobadasAlertPlaceholder">
+    </div>
+    <form id="actas_aprobadas">
+        <div class="row mb-3">
+            <div class="col-md-4">
+                <label for="actas_aprobadas_periodo" class="form-label">Periodo</label>
+                <div class="input-group">
+                    <select class="form-control" id="actas_aprobadas_periodo" name="PERIODO_ID"
+                        aria-describedby="btn-cargar-actas-aprobadas" required>
+                    </select>
+                    <button type="submit" name="accion" description="CARGUE LISTADO DE ACTAS APROBADAS"
+                        value="lista_actas_aprobadas" id="btn-cargar-actas-aprobadas" class="btn btn-primary">Cargar
+                        tabla</button>
+                </div>
+            </div>
+        </div>
+    </form>
+    <div id="div_table_actas_aprobadas" hidden>
+        <table class="table table-hover display compact nowrap cell-border" id="actas_table_aprobada" cellspacing="0"
+            width="100%">
+            <thead class="table-dark">
+                <tr>
+                    <th scope="col">Número Registro</th>
+                    <th scope="col">Tipo Documento</th>
+                    <th scope="col">Documento Identidad</th>
+                    <th scope="col">Municipio Expedición</th>
+                    <th scope="col">Nombres Y Apellidos Diploma</th>
+                    <th scope="col">Titulo Obtenido Diploma</th>
+                    <th scope="col">Fecha Grado</th>
+                    <th scope="col">Folio</th>
+                    <th scope="col">Libro</th>
+                    <th scope="col">Fecha Registro</th>
+                    <th scope="col">Consecutivo Diploma</th>
+                    <th scope="col">Acta De Grado</th>
+                    <th scope="col">Titulo Obtenido Acta</th>
+                    <th scope="col">Código Snies</th>
+                    <th scope="col">Código Resolución Rectoral</th>
+                    <th scope="col">Fecha Resolución Rectoral</th>
+                    <th scope="col">Estudiante Id</th>
+                    <th scope="col">Tipo Grado</th>
+                    <th scope="col">Estado Acta</th>
+                </tr>
+            </thead>
+        </table>
+    </div>
+</div>

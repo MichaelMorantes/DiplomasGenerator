@@ -1,0 +1,50 @@
+<div style='margin: 60pt 1.2cm 5.0pt 1.2cm;'>
+	<br>
+	<br>
+	<h1><i><span></span></i></h1>
+	<br>
+	<h1><span>ACTA No.</span><span> </span><span>%s</span></h1>
+	<br>
+	<p class=MsoNormal style='text-align:justify'><span>En la ciudad de Santiago de Cali, Valle de Cauca, el día %s
+			de %s del %s, la Rectoría a través de lo establecido en la Resolución Rectoral
+			No. %s del %s de %s del %s, autorizo los grados por ventanilla no se
+			celebró sesión solemne para la entrega del diploma de formación profesional en
+			tecnología a los estudiantes de la Institución.</span></p>
+	<br>
+	<br>
+	<p class=MsoNormal style='text-align:justify'><span>La Resolución de Grado No. %s por medio del cual,
+			en nombre de la República de Colombia y por autorización del Ministerio de
+			Educación Nacional, confirió el título académico de:</span></p>
+	<br>
+	<p class=MsoNormal align=center style='text-align:center'><b><span>TECNÓLOGO EN %s</span></b></p>
+	<p class=MsoNormal align=center style='text-align:center'><b><span>CÓDIGO SNIES
+			</span></b><b><span>%s</span></b></p>
+	<br>
+	<p class=MsoNormal align=center style='text-align:center'><span>a</span></p>
+	<br>
+	<p class=MsoNormal align=center style='text-align:center'><b><span>%s</span></b></p>
+	<p class=MsoNormal align=center style='text-align:center'><b><span>%s</span></b><b><span>
+			</span></b><b><span>%s</span></b><b><span> de </span></b><b><span>%s</span></b></p>
+	<br>
+	<p class=MsoBodyText3><span style='font-size:12.0pt'>Acto seguido se entregaran
+			los diplomas por ventanilla desde el %s de %s del %s</span></p>
+	<br>
+	<br>
+	<p class=MsoBodyText3><b><i><span style='font-size:12.0pt'>(FDO) RECTORA
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DRA.</span></i></b>
+	</p>
+	<p class=MsoBodyText3><b><i><span style='font-size:12.0pt'>(FDO) SECRETARIA
+					GENERAL&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DRA. </span></i></b></p>
+	<br>
+	<p class=MsoBodyText3><span style='font-size:12.0pt'>La presente copia del acta de grado por ventanilla se expide el
+			%s de %s del %s</span></p>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<p class=MsoNormal align=center style='text-align:center'><b><span></span></b></p>
+	<p class=MsoNormal align=center style='text-align:center'><span></span></p>
+	<p class=MsoNormal align=center style='text-align:center'><span>Secretaria General</span></p>
+</div>

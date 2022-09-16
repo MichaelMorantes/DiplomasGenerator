@@ -1,0 +1,21 @@
+<div class="card-body">
+    <div id="ActasConfigAlertPlaceholder">
+    </div>
+    <table class="table table-hover display compact nowrap cell-border" id="actas_config_table" cellspacing="0" width="100%">
+        <thead class="table-dark">
+            <tr>
+                <th scope="col">Plan Estudio Id</th>
+                <th scope="col">Descripción Plan De Estudio</th>
+                <th scope="col">Cantidad De Estudiantes</th>
+                <th scope="col">Fecha De Grado</th>
+                <th scope="col">Tipo De Grado</th>
+            </tr>
+        </thead>
+    </table>
+    <div class="col-12">
+        <form id="actas_config" method="POST">
+            <button type="submit" name="accion" description="GENERACIÓN DEL LISTADO PREVIO DE ACTAS" value="generar_listado_previo" id="btn-generar-previo" class="btn btn-primary">Generar listado previo</button>
+            <button type="submit" name="accion" description="ELIMINACIÓN DE LA CONFIGURACIÓN PARA LA GENERACIÓN DE ACTAS" value="eliminar_actas_config" id="btn-eliminar-config" class="btn btn-warning">Eliminar configuración actas</button>
+        </form>
+    </div>
+</div>

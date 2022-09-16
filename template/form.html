@@ -1,0 +1,68 @@
+<div class="card-header d-flex justify-content-center">
+    <div class="card-title">Creación listado previo</div>
+</div>
+<div class="card-body">
+    <div id="FormAlertPlaceholder">
+    </div>
+    <form class="g-3" id="form" method="POST" enctype="multipart/form-data">
+        <div class="mb-3 row">
+            <div class="col-md-6">
+                <label for="informacion_gruposgra" class="form-label">Información grupos de grado</label>
+                <div class="input-group">
+                    <a class="btn btn-outline-success" type="button" id="informacion_excel"
+                        href="public/assets/file/grupos_actas.csv"><i class="fas fa-file-download"></i></a>
+                    <input required type="file" accept=".csv" class="form-control" id="excel" name="excel"
+                        aria-describedby="informacion_excel" aria-label="Upload">
+                </div>
+            </div>
+        </div>
+        <div class="mb-3 row">
+            <div class="col-md-5">
+                <div class="form-check">
+                    <input class="form-check-input" type="radio" value="ceremonia" name="tipo_grado"
+                        id="grado_ceremonia" checked>
+                    <label class="form-check-label" for="grado_ceremonia">
+                        Grado por ceremonia
+                    </label>
+                </div>
+                <div class="form-check">
+                    <input class="form-check-input" type="radio" value="ventanilla" name="tipo_grado"
+                        id="grado_ventanilla">
+                    <label class="form-check-label" for="grado_ventanilla">
+                        Grado por ventanilla
+                    </label>
+                </div>
+            </div>
+        </div>
+        <div class="mb-3 card">
+            <div class="card-body">
+                <div class="row p-2">
+                    <div class="col-md-2">
+                        <label for="libro" class="form-label">Libro</label>
+                        <input type="number" class="form-control" id="libro" pattern="[0-9]" readonly>
+                    </div>
+                    <div class="col-md-2">
+                        <label for="folio" class="form-label">Folio</label>
+                        <input type="number" class="form-control" id="folio" pattern="[0-9]" readonly>
+                    </div>
+                    <div class="col-md-2">
+                        <label for="registro" class="form-label">Registro</label>
+                        <input type="number" class="form-control" id="registro" pattern="[0-9]" readonly>
+                    </div>
+                    <div class="col-md-6">
+                        <label for="actas" class="form-label">Actas</label>
+                        <textarea class="form-control" id="actas" rows="5" disabled></textarea>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="d-grid gap-2">
+            <button type="submit" id="btn-listado-previo" class="btn btn-primary">Subir configuración actas</button>
+        </div>
+    </form>
+    <form id="form_agr" method="POST">
+        <div class="d-grid gap-2">
+            <button type="submit" id="btn-agr" class="btn btn-secondary">Actualización estado AGR</button>
+        </div>
+    </form>
+</div>

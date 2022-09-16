@@ -1,0 +1,56 @@
+<div style='margin: 60pt 1.2cm 5.0pt 1.2cm;'>
+	<br>
+	<br>
+	<h1><i><span></span></i></h1>
+	<br>
+	<h1><span>ACTA No.</span><span> %s</span></h1>
+	<br>
+	<p class=MsoNormal style='text-align:justify'><span>En la ciudad de Santiago de Cali, Valle de Cauca, a las
+			%s del día %s de %s del %s, a través de ceremonia solemne asistida
+			por el uso de las tecnologías y de acuerdo a lo establecido en la Resolución
+			Rectoral No. %s del %s de %s del %s, se celebró sesión solemne con el fin
+			de hacer entrega del diploma de formación profesional en tecnología a los
+			estudiantes de la Institución.</span></p>
+	<br>
+	<p class=MsoNormal style='text-align:justify'><span>La sesión estuvo presidida por la Señora Rectora Dra.</span></p>
+	<br>
+	<p class=MsoNormal style='text-align:justify'><span>El orden del día fue el siguiente: 1) Apertura de la
+			sesión, 2) Palabras de la rectora, 3) presentación de los graduandos, 4) Toma
+			del Juramento, 5) Saludo del Director Académico General 6) Lectura de la
+			Resolución 7) Entrega de Diplomas. </span></p>
+	<br>
+	<p class=MsoNormal style='text-align:justify'><span>Se declaró abierta la sesión. A continuación, se dio lectura de la
+			Resolución de Grado No. %s por medio del cual, en nombre de la República de Colombia y por autorización del
+			Ministerio de Educación Nacional, confirió el título académico de:</span></p>
+	<br>
+	<p class=MsoNormal align=center style='text-align:center'><b><span>TECNÓLOGO EN %s</span></b></p>
+	<p class=MsoNormal align=center style='text-align:center'><b><span>CÓDIGO SNIES %s</span></b></p>
+	<br>
+	<p class=MsoNormal align=center style='text-align:center'><span>a</span></p>
+	<br>
+	<p class=MsoNormal align=center style='text-align:center'><b><span>%s</span></b>
+	</p>
+	<p class=MsoNormal align=center style='text-align:center'><b><span>%s</span></b><b><span>
+				%s</span></b><b><span> <span>de %s</span></span></b></p>
+	<br>
+	<p class=MsoBodyText3><span style='font-size:12.0pt'>Acto seguido se
+			tomo a los graduandos el juramento y se procedio a la entrega de los
+			respectivos diplomas. Siendo las %s de la %s se levanto la sesión.</span></p>
+	<br>
+	<p class=MsoBodyText3><b><i><span style='font-size:12.0pt'>(FDO)
+					RECTORA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+					DRA.</span></i></b></p>
+	<p class=MsoBodyText3><b><i><span style='font-size:12.0pt'>(FDO)
+					SECRETARIA GENERAL&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DRA.</span></i></b></p>
+	<br>
+	<p class=MsoBodyText3><span style='font-size:12.0pt'>La presente copia del acta de ceremonia de grado se expide el %s
+			de %s del %s.</span></p>
+	<br>
+	<br>
+	<br>
+	<br>
+	<p class=MsoNormal align=center style='text-align:center'><b><span></span></b></p>
+	<p class=MsoNormal align=center style='text-align:center'><span></span></p>
+	<p class=MsoNormal align=center style='text-align:center'><span>Secretaria General</span></p>
+	<br>
+</div>

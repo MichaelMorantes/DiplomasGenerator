@@ -1,0 +1,88 @@
+<div class="card-body">
+    <div id="ActasSinAprobarAlertPlaceholder">
+    </div>
+    <form id="form_actas" method="POST">
+        <div class="card">
+            <div class="card-body">
+                <div class="row mb-3">
+                    <div class="col-md-2">
+                        <label for="id_resolucion_0" class="form-label">Resolución rectoral</label>
+                        <input type="number" class="form-control" id="id_resolucion_0" name="id_resolucion"
+                            pattern="[0-9]">
+                    </div>
+                    <div class="col-md-2">
+                        <label for="fecha_resolucion_0" class="form-label">Fecha Resolución rectoral</label>
+                        <input type="date" class="form-control" id="fecha_resolucion_0" name="fecha_resolucion">
+                    </div>
+                    <div class="col-md-3">
+                        <label for="fecha_grado_0" class="form-label">Fecha de grado</label>
+                        <input readonly type="text" class="form-control" id="fecha_grado_0" name="fecha_grado">
+                    </div>
+                </div>
+                <div class="row mb-3">
+                    <div class="col-md-2">
+                        <label for="id_resolucion_1" class="form-label">Resolución rectoral</label>
+                        <input type="number" class="form-control" id="id_resolucion_1" name="id_resolucion"
+                            pattern="[0-9]">
+                    </div>
+                    <div class="col-md-2">
+                        <label for="fecha_resolucion_1" class="form-label">Fecha Resolución rectoral</label>
+                        <input type="date" class="form-control" id="fecha_resolucion_1" name="fecha_resolucion">
+                    </div>
+                    <div class="col-md-3">
+                        <label for="fecha_grado_1" class="form-label">Fecha de grado</label>
+                        <input readonly type="text" class="form-control" id="fecha_grado_1" name="fecha_grado">
+                    </div>
+                </div>
+                <div class="row mb-3">
+                    <div class="col-md-2">
+                        <label for="id_resolucion_2" class="form-label">Resolución rectoral</label>
+                        <input type="number" class="form-control" id="id_resolucion_2" name="id_resolucion"
+                            pattern="[0-9]">
+                    </div>
+                    <div class="col-md-2">
+                        <label for="fecha_resolucion_2" class="form-label">Fecha Resolución rectoral</label>
+                        <input type="date" class="form-control" id="fecha_resolucion_2" name="fecha_resolucion">
+                    </div>
+                    <div class="col-md-3">
+                        <label for="fecha_grado_2" class="form-label">Fecha de grado</label>
+                        <input readonly type="text" class="form-control" id="fecha_grado_2" name="fecha_grado">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <br>
+        <table class="table table-hover display compact nowrap cell-border" id="actas_table_sinaprobar" cellspacing="0"
+            width="100%">
+            <thead class="table-dark">
+                <tr>
+                    <th scope="col">Número Registro</th>
+                    <th scope="col">Tipo Documento</th>
+                    <th scope="col">Documento Identidad</th>
+                    <th scope="col">Municipio Expedición</th>
+                    <th scope="col">Nombres Y Apellidos Diploma</th>
+                    <th scope="col">Titulo Obtenido Diploma</th>
+                    <th scope="col">Fecha Grado</th>
+                    <th scope="col">Folio</th>
+                    <th scope="col">Libro</th>
+                    <th scope="col">Fecha Registro</th>
+                    <th scope="col">Consecutivo Diploma</th>
+                    <th scope="col">Acta De Grado</th>
+                    <th scope="col">Titulo Obtenido Acta</th>
+                    <th scope="col">Código Snies</th>
+                    <th scope="col">Estudiante Id</th>
+                    <th scope="col">Tipo Grado</th>
+                    <th scope="col">Estado Acta</th>
+                </tr>
+            </thead>
+        </table>
+        <div class="col-12">
+            <button type="submit" name="accion" description="APROBACIÓN DEL LISTADO PREVIO DE ACTAS"
+                value="aprobar_listado_previo" id="btn-aprobar-previo" class="btn btn-primary">Aprobar listado
+                previo</button>
+            <button type="button" name="accion" description="ELIMINACIÓN DEL LISTADO PREVIO DE ACTAS"
+                value="eliminar_listado_previo" id="btn-eliminar-previo" class="btn btn-warning">Eliminar listado
+                previo</button>
+        </div>
+    </form>
+</div>

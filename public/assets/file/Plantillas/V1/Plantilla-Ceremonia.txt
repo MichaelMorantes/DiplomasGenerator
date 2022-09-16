@@ -1,0 +1,105 @@
+<div style='margin: 20pt 1.2cm 5.0pt 1.2cm;'>
+	<h1><i><span></span></i></h1>
+	<br>
+	<p class='MsoNormal fontsize2019' style='text-align:justify'><span>%s, CARRERA TECNOLÓGICA APROBACIÓN ICFES Res.No
+			%s DE %s %s de
+			%s.</span></p>
+	<br>
+	<p class='MsoNormal' style='text-align:justify'><b><span>ACTA No. %s</span></b></p>
+	<br>
+	<p class='MsoNormal fontsize2019' style='text-align:justify'><span>EN LA CIUDAD DE SANTIAGO DE CALI, DEPARTAMENTO
+			DEL VALLE DEL CAUCA,
+			REPÚBLICA DE COLOMBIA,
+			A LAS %s (%s) HORAS DEL DÍA %s (%s) DE %s DE %s (%s), SE REUNIÓ EL COMITE DE GRADOS, CON EL FIN DE ESTUDIAR LA
+			SOLICITUD DE GRADO FORMULADA POR:
+		</span></p>
+	<br>
+	<p class='MsoNormal' align=center style='text-align:center'><b><i><span>%s</span></i></b></p>
+	<p class='MsoNormal fontsize2019' style='text-align:justify'><span>ALUMNO (A) EGRESADO (A) DE ESTA INSTITUCIÓN,
+			IDENTIFICADO (A) CON %s NÚMERO:</span></p>
+	<br>
+	<p class='MsoNormal' align=center style='text-align:center'><b><i><span>%s de %s</span></i></b></p>
+	<p class='MsoNormal fontsize2019' align=center style='text-align:center'><span>EL COMITÉ PREVIO ANÁLISIS DE LAS
+			CALIFICACIONES
+			OBTENIDAS POR EL SOLICITANTE DURANTE TODA SU CARRERA, CONCEPTÚA:</span>
+	</p>
+	<p class='MsoNormal fontsize2019' style='text-align:justify'><span>
+			<ol>
+				1. QUE EL (LA) SEÑOR (ITA):
+			</ol>
+		</span>
+	</p>
+	<p class='MsoNormal' align=center style='text-align:center'><b><i><span>%s</span></i></b></p>
+	<p class='MsoNormal fontsize2019' style='text-align:justify'><span>TERMINO SATISFACTORIAMENTE SUS ESTUDIOS
+			CORRESPONDIENTES AL PLAN DE:
+		</span></p>
+	<br>
+	<p class='MsoNormal' align=center style='text-align:center'><b><i><span>%s</span></i></b></p>
+	<p class='MsoNormal fontsize2019' style='text-align:justify'><span>
+			<ol>
+				2. QUE EL (LA) SEÑOR (ITA):
+			</ol>
+		</span>
+	</p>
+	<p class='MsoNormal' align=center style='text-align:center'><b><i><span>%s</span></i></b></p>
+	<p class='MsoNormal fontsize2019' style='text-align:justify'><span>CUMPLIÓ A CABALIDAD CON LOS REQUISITOS
+			ESTABLECIDOS.
+		</span></p>
+	<br>
+	<p class='MsoNormal' align=center style='text-align:center'><b><i><span></span></i></b></p>
+	<br>
+	<p class='MsoNormal fontsize2019' style='text-align:justify'><span>EN SESIÓN REALIZADA GRADOS POR CEREMONIA,
+			CONFIERE EL TITULO DE:
+		</span></p>
+	<br>
+	<p class='MsoNormal' align=center style='text-align:center'><b><i><span>TECNÓLOGO EN %s</span></i></b></p>
+	<br>
+	<p class='MsoNormal fontsize2019' style='text-align:justify'><span>DE INMEDIATO EL SEÑOR RECTOR (A) PROCEDIÓ A
+			TOMARLE EL JURAMENTO DE
+			RIGOR.
+		</span></p>
+	<br>
+	<p class='MsoNormal fontsize2019' style='text-align:justify'><span>ES FIEL COPIA DEL LIBRO DE ACTAS DE GRADO DADA A
+			LOS %s (%s) DÍAS
+			DEL MES DE %s DE %s (%s) POR QUIENES INTERVINIERON EN LA CEREMONIA Y EN EL ESTUDIO CORRESPONDIENTE.
+		</span></p>
+	<br>
+	<p class='MsoNormal fontsize2019' style='text-align:justify'><span>FIRMADA Y SELLADA EL %s de %s DE %s.</span></p>
+	<br>
+	<br>
+	<table>
+		<tr>
+			<td>
+				<p class='MsoNormal fontsize2019'><span></span></p>
+			</td>
+			<td>
+				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			</td>
+			<td>
+				<p class='MsoNormal fontsize2019'><span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<p class='MsoNormal fontsize2019'><span></span></p>
+			</td>
+			<td>
+				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			</td>
+			<td>
+				<p class='MsoNormal fontsize2019'><span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<p class='MsoNormal fontsize2019'><span>RECTORA.</span></p>
+			</td>
+			<td>
+				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			</td>
+			<td>
+				<p class='MsoNormal fontsize2019'><span>SECRETARIA GENERAL.</span></p>
+			</td>
+		</tr>
+	</table>
+</div>
